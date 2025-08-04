@@ -1,0 +1,49 @@
+Programming Languages: Python, C/C++, Java, JavaScript, MASM, C#
+ML & Deep Learning: LSTM, Behavioral Cloning, CUDA Acceleration
+Frameworks & Libraries: CUDA Toolkit, Django, SFML, JavaFX, FXML, OpenMP, MPI, METIS
+Web Development: HTML, CSS, JavaScript (Frontend), Django (Backend)
+Databases: SQLite, MongoDB, SQL
+Tools & Technologies: Git, Jupyter Notebook, Visual Studio, IntelliJ IDEA
+Game Development: Collision Detection, Particle Systems, AI Behavior Design
+The PEACE Group of School and Colleges Mansehra | 2020-2022
+Fundamental of Sciences in Pre-Engineering
+Percentage: 92.18%
+FAST, NUCES Islamabad | 2022-2026
+Bachelor of Science in Computer Science
+ 6 Semesters in
+RAJA SAIF ALI
+Phone: +92 318 558 91 84 |  rajasaif45890@gmail.com | Github: Raja_Saif
+ LinkedIn: https://www.linkedin.com/in/raja-saif-01702329a/
+BACHELOR IN COMPUTER SCIENCE
+PROJECTS:
+EDUCATION
+TECHNICAL SKILLS
+MNIST Neural Network Acceleration on GPU (C/CUDA)
+Implemented a GPU-accelerated neural network for MNIST digit classification using CUDA in C/C++.
+Optimized matrix operations with custom CUDA kernels for parallel training and inference, achieving
+significant runtime reduction over CPU-based approaches.
+Autonomous Driving Model for TORCS (Python, LSTM)
+Developed an LSTM-based behavioral cloning model for autonomous driving in the TORCS simulator.
+Automated telemetry data collection to build a dataset of 1M+ samples, enabling the model to learn
+control strategies and race competitively against AI opponents.
+IPFS-Based Distributed File Storage using Ring DHT (C++, SHA-1, B-Trees)
+Implemented a simplified IPFS model using a configurable Ring DHT with SHA-1-based content
+addressing. Simulated geo-distributed file storage across machines, using B-Trees for local indexing and
+modular routing tables for efficient O(log⁡(N)) lookup. Supported real-time file insertion/removal, dynamic
+node joining/leaving, and complete path traceability across the network.
+Online Quiz Management System (Django, SQLite, HTML/CSS/JS)
+Built a full-stack web platform to support automated quiz scheduling, grading, and performance tracking.
+Integrated Django for the backend and SQLite for persistent storage; designed responsive UI for seamless
+teacher-student interaction.
+GYM Autonomous System (JavaFX, FXML, JavaScript)
+Created a desktop application for gym activity tracking. Enabled user registration, personalized training
+plans, and trainer-student management. Employed JavaFX with FXML for the UI and Java for backend
+logic, simulating real-world system automation.
+Parallel IST Construction in Bubble-Sort Networks (C++, OpenMP, MPI, METIS)
+Engineered a fully parallel algorithm (complexity O(n⋅n!)) for constructing independent spanning trees in
+Bubble-Sort Networks. Utilized OpenMP and MPI for hybrid parallelism and METIS for optimized graph
+partitioning, demonstrating scalable high-performance computing.
+INTERESTS
+AI/ML & Computer Vision: Deep learning for image recognition, object detection, and semantic segmentation.
+Image Processing: Techniques for image enhancement, feature extraction, and pattern recognition. High-
+Performance Computing: Leveraging CUDA and parallel computing for scalable AI solutions
